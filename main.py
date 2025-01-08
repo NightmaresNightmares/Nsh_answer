@@ -61,7 +61,7 @@ def main():
     })
     tw_headers2 = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer ALTAKa0fqj3pSpdgy3t2Cmlp1t'
+        'Authorization': 'Bearer xxxxxxx'  #这里填入百度云Bearer密钥
     }
 
     response2 = requests.request("POST", tw_url2, headers=tw_headers2, data=tw_payload2)
