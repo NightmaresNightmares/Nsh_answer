@@ -1,4 +1,4 @@
-# Nsh_answer此版本已报废
+# Nsh_answer已报废 请使用new_doubao
 逆水寒OCR（百度云API）
 1.基于百度云OCR_API实现截图保存问题到本地
 2.上传图片到ModelBuilder提问
